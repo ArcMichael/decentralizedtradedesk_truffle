@@ -1,0 +1,22 @@
+{
+  "name": "decentralizedtradedesk_truffle",
+  "version": "1.0.0",
+  "description": "A decentralized trading desk project using Truffle framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcMichael/decentralizedtradedesk_truffle.git"
+  },
+  "author": "ArcMichael <hulen20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArcMichael/decentralizedtradedesk_truffle/issues"
+  },
+  "homepage": "https://github.com/ArcMichael/decentralizedtradedesk_truffle#readme",
+  "dependencies": {
+    "solc": "0.8.21"
+  }
+}
